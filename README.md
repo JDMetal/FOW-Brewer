@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.gyazo.com/9ef3696c134c71c178996d6662e3a544.png" alt="Logo" width="200" height="200">
+  <img src="https://i.gyazo.com/ed04886a2a3986b6e38d5bff01d13184.png" alt="Logo" width="200" height="200">
   <br/>
   FOW Brewer
 </h1>
