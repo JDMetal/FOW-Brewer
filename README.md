@@ -16,7 +16,11 @@
   <img alt="Version" src="https://img.shields.io/badge/-V%200.0.1-18C27D?style=flat-round">
 </p>
 
-# Features: 
+# Deck Builder: 
+- Coming Soon...
+# Library: 
+- Coming Soon...
+# Rulings: 
 - Coming Soon...
 
 > Disclaimer: This project is not endorsed by Force of Will and doesn't reflect the views or opinions of Force of Will or anyone officially involved in producing or managing its company. Force of Will and Gametrade Distribuzione are trademarks or registered trademarks.
