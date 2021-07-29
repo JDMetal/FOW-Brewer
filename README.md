@@ -20,7 +20,7 @@
 - <h2>
     <b>Creating a Deck</b>
   </h2>
-  dsfsdfsfdsdf
+  Coming Soon...
 
 
 
