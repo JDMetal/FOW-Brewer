@@ -17,10 +17,18 @@
 </p>
 
 # Deck Builder: 
-- Coming Soon...
+- <h2>
+    <b>Creating a Deck</b>
+  </h2>
+  dsfsdfsfdsdf
+
+
+
+
+
 # Library: 
 - Coming Soon...
-# Rulings: 
+# Card Rulings: 
 - Coming Soon...
 
 > Disclaimer: This project is not endorsed by Force of Will and doesn't reflect the views or opinions of Force of Will or anyone officially involved in producing or managing its company. Force of Will and Gametrade Distribuzione are trademarks or registered trademarks.
