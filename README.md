@@ -16,19 +16,32 @@
   <img alt="Version" src="https://img.shields.io/badge/-V%200.0.1-18C27D?style=flat-round">
 </p>
 
-# Deck Builder: 
+# Deck Builder 
 - <h2>
     <b>Creating a Deck</b>
   </h2>
-  Coming Soon...
+    <p align="Left">
+      <b>In the deck creation window you will be able to see all your created decks and manage different tasks such as: exporting, deleting, modifying and creating new ones.</b> 
+      <br></br>
+      <img src="https://user-images.githubusercontent.com/74834814/127658488-152ee458-274e-42d8-a808-2b99b7b141e6.png"> 
+      <br></br>
+      <b>When creating a new deck you must choose the deck name and the format to be played at.</b> 
+      <br></br>
+      <img src="https://user-images.githubusercontent.com/74834814/127659323-1e7cca28-6553-4450-8661-66e952b1c010.png"> 
+      <br></br>
+      <b>Once you have created the deck you can start adding all the different cards you want to the deck by selecting the zone you want to interact with (Ruler, Main Deck, Magic stone deck...).</b> 
+      <br></br>
+      <img src="https://user-images.githubusercontent.com/74834814/127659654-eb424930-1b48-40f3-8788-c8f6de40b352.png"> 
+      <br></br>
+      <b>You can click on the filter button and it will show you a variety of options that you can apply to the displayed list of cards</b> 
+      <br></br>
+      <img src="https://user-images.githubusercontent.com/74834814/127660250-768a6b1c-af04-43cf-8ce6-7e79cad00bdd.png"> 
+    </p>
 
 
-
-
-
-# Library: 
+# Library
 - Coming Soon...
-# Card Rulings: 
+# Card Rulings
 - Coming Soon...
 
 > Disclaimer: This project is not endorsed by Force of Will and doesn't reflect the views or opinions of Force of Will or anyone officially involved in producing or managing its company. Force of Will and Gametrade Distribuzione are trademarks or registered trademarks.
