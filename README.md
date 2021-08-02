@@ -13,10 +13,31 @@
 <p align="center">
   <img alt="Incomplete" src="https://img.shields.io/badge/Incomplete-red?style=flat-round"> 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?style=flat-round&logo=windows"> 
-  <img alt="Version" src="https://img.shields.io/badge/-V%200.0.1-18C27D?style=flat-round">
+  <img alt="Version" src="https://img.shields.io/badge/-V%200.0.2-18C27D?style=flat-round">
 </p>
 
 # Release History
+- <h2>
+    <b>Version 0.0.2 - Small changes, big results</b>
+  </h2>
+  <b>- Fixed some cards that went missing on the first version, fetched them into the database, fixed some sames & now it should display all avaliable cards ^^</b> 
+  <br></br>
+  <b>- Better import/export txt format & fixed some issues regarding missing cards on import.</b> 
+  <br></br>
+  <b>- Added the changing deck name feature to the program, no more "New Deck (13)".</b> 
+  <br></br>
+  <b>- Now supports all playeable formats + all clusters (Origin, Valhalla cluster, etc.).</b> 
+  <br></br>
+  <b>- Filters now reset on changing deck zones.</b> 
+  <br></br>
+  <b>- Banlist added to prevent the user to add ilegal cards to a specific format (they are displayed with a translucent red overlay on top of the card & you are unable to add
+  them to your decklist).</b> 
+  <br></br>
+  <b>- Zoom on cards list now works properly.</b> 
+  <br></br>
+  <b>- Zoom on visual display added as a scrollbar to fit all cards in screen or see a card text.</b> 
+  <br></br>
+  <b>- Card name filter is now outside the filters menu & it updates the card list every time the text gets changed.</b> 
 - <h2>
     <b>Version 0.0.1 - Open Beta</b>
   </h2>
