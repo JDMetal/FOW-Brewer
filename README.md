@@ -30,8 +30,7 @@
   <br></br>
   <b>- Filters now reset on changing deck zones.</b> 
   <br></br>
-  <b>- Banlist added to prevent the user to add ilegal cards to a specific format (they are displayed with a translucent red overlay on top of the card & you are unable to add
-  them to your decklist).</b> 
+  <b>- Banlist added to prevent the user to add ilegal cards to a specific format (they are displayed with a translucent red overlay on top of the card & you are unable to add them to your decklist).</b> 
   <br></br>
   <b>- Zoom on cards list now works properly.</b> 
   <br></br>
