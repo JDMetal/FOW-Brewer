@@ -16,6 +16,18 @@
   <img alt="Version" src="https://img.shields.io/badge/-V%200.0.1-18C27D?style=flat-round">
 </p>
 
+# Release History
+- <h2>
+    <b>Version 0.0.1 - Open Beta</b>
+  </h2>
+  <b>- Deckbuilder with all sets and advanced filters.</b> 
+  <br></br>
+  <b>- Supports New Frontiers, Wanderer and Genesis formats.</b> 
+  <br></br>
+  <b>- Visual display of the decks without the necessity of being complete.</b> 
+  <br></br>
+  <b>- Import and export your decks in a Untap friendly format.</b> 
+  
 # Deck Builder 
 - <h2>
     <b>Creating a Deck</b>
@@ -25,7 +37,7 @@
       <br></br>
       <img src="https://user-images.githubusercontent.com/74834814/127658488-152ee458-274e-42d8-a808-2b99b7b141e6.png"> 
       <br></br>
-      <b>When creating a new deck you must choose the deck name and the format to be played at (New Frontiers, Wanderer, Genesis).</b> 
+      <b>When creating a new deck you must choose the deck name and the format to be played at (New Frontiers, Wanderer, Genesis etc.).</b> 
       <br></br>
       <img src="https://user-images.githubusercontent.com/74834814/127659323-1e7cca28-6553-4450-8661-66e952b1c010.png"> 
       <br></br>
