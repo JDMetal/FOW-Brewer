@@ -18,7 +18,7 @@
 
 # Release History
 - <h2>
-    <b>Version 0.0.2 - Small changes, big results</b>
+    <b>Version 0.0.2 - Small changes, big results (02/08/2021)</b>
   </h2>
   <b>- Fixed some cards that went missing on the first version, fetched them into the database, fixed some sames & now it should display all avaliable cards ^^</b> 
   <br></br>
@@ -38,7 +38,7 @@
   <br></br>
   <b>- Card name filter is now outside the filters menu & it updates the card list every time the text gets changed.</b> 
 - <h2>
-    <b>Version 0.0.1 - Open Beta</b>
+    <b>Version 0.0.1 - Open Beta (30/07/2021)</b>
   </h2>
   <b>- Deckbuilder with all sets and advanced filters.</b> 
   <br></br>
