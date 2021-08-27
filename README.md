@@ -18,6 +18,22 @@
 
 # Release History
 - <h2>
+    <b>Version 0.0.3 - The Seventh + better features (27/08/2021)</b>
+  </h2>
+  <b>- All "The Seventh" cards added on the database :D</b> 
+  <br></br>
+  <b>- Added all unlimited quanitity cards on the unlimited quantity list.</b> 
+  <br></br>
+  <b>- Now if you imput some weird characters in the deckname it does not crash.</b> 
+  <br></br>
+  <b>- Clear filers button added on the deckbuilder.</b> 
+  <br></br>
+  <b>- Basic pdf deck export (Working on it).</b> 
+  <br></br>
+  <b>- Higher resolution on the new cards.</b> 
+  <br></br>
+  <b>- Fixed some minor bugs.</b> 
+- <h2>
     <b>Version 0.0.2 - Small changes, big results (02/08/2021)</b>
   </h2>
   <b>- Fixed some cards that went missing on the first version, fetched them into the database, fixed some sames & now it should display all avaliable cards ^^</b> 
