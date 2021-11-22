@@ -18,6 +18,18 @@
 
 # Release History
 - <h2>
+    <b>Version 0.0.4 - Game of Gods + Error Fixing (22/11/2021)</b>
+  </h2>
+  <b>- All "Game of Gods" cards + starter decks added on the database :D</b> 
+  <br></br>
+  <b>- Fixed deck name errors that didn't let you use certain characters.</b> 
+  <br></br>
+  <b>- Card list now has a pagination format instead of a "load more" format.</b> 
+  <br></br>
+  <b>- Fixed some missing cards.</b> 
+  <br></br>
+  <b>- Fixed some deck problems and restrictions.</b> 
+- <h2>
     <b>Version 0.0.3 - The Seventh + better features (27/08/2021)</b>
   </h2>
   <b>- All "The Seventh" cards added on the database :D</b> 
